@@ -1,0 +1,1 @@
+The current project is to make a site that lists recipes. I will be following the directions and the main objective is to get used to HTML commands. This project will also serve as a stepping stone to implement CSS features in the future.
